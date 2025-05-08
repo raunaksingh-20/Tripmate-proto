@@ -4,7 +4,7 @@ import { Sparkles, Map, Compass } from 'lucide-react';
 
 const Hero: React.FC = () => {
   const handleRedirectToRecommendationApp = () => {
-    window.open('https://tour-recommendation-model-57axfvngzrjczksjq59eeo.streamlit.app/', '_blank');
+    window.open('https://tour-model-newgx99w8zg5pnqpgmt6fuec2.streamlit.app/', '_blank');
   };
 
   return (
