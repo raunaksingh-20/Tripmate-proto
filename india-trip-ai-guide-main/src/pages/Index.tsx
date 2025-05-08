@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import PopularCities from '@/components/PopularCities';
 import InteractiveMap from '@/components/InteractiveMap';
-//import Chatbot from '@/components/Chatbot';
+import Chatbot from '@/components/Chatbot';
 
 const Index: React.FC = () => {
   const scrollToTop = () => {
